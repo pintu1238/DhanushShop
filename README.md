@@ -1,6 +1,8 @@
 # DhanushShop
 A full-stack e-commerce application built with React and Vite for the frontend and Node.js/Express for the backend.
 
+## Live Demo:-  https://dhanush-shop.vercel.app/
+
 ## Project Overview
 
 This repository contains the frontend and backend code for an e-commerce shop built with React and Vite. The frontend provides a modern, responsive user interface for browsing products, managing a shopping cart, and completing purchases. The backend handles product management, user authentication, order processing, and other core business logic.
